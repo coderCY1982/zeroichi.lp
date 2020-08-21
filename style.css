@@ -774,7 +774,7 @@ h1 {
 }
 @media (max-width:768px) {
   .voice-name{
-    top: 100px;
+    top: 30px;
     right: 15px;
     width: 200px;
     font-size: 15px;
